@@ -1,0 +1,15 @@
+Apple tries to hard to protect the people from themselves and do strange things with telnet.
+
+If you get the following:
+
+############################################################
+[Command not found: telnet]
+
+[Could not create a new process and open a pseudo-tty.]
+############################################################
+
+Do the following:
+
+Install brew - lots of guides on the internet
+Install telnet - brew install telnet
+Copy files where they need to go - sudo cp /usr/local/Cellar/telnet/XX.XX.X/bin/telnet /usr/bin/telnet
