@@ -1,0 +1,11 @@
+#!/bin/bash
+ 
+# Remove the telnet:// and change the colon before the port
+# number to a space.
+TELNET_STRING=$(echo $1 | sed -e 's/telnet:\/\///' -e 's/:/ /')
+ 
+# Telnet to the remote session
+/usr/bin/telnet $TELNET_STRING
+ 
+# Don't close out the terminal unless we are done
+read -p "Press a key to exit"
