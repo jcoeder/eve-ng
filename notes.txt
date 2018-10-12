@@ -1,5 +1,4 @@
-c7200 idle value - 0x6318dc24
-c3725 idle value - 0x60bf77a8
+idle-pc - 0x61d992d4
 Juniper vMX 14.1 - root:root123
 Juniper vMX 15+ (two parts) - root:Juniper
 Juniper vQFX (two parts) - root:Juniper
