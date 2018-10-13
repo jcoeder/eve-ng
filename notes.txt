@@ -1,5 +1,5 @@
 c7200 idle-pc = 0x6318cad4
 c3725 idle-pc = 0x614998c8
-Juniper vMX 14.1 - root:root123
 Juniper vMX 15+ (two parts) - root:Juniper
 Juniper vQFX (two parts) - root:Juniper
+ESXi - root/VMware1!
