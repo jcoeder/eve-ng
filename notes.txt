@@ -2,7 +2,8 @@ c7200 idle-pc = 0x6318cad4 - Seems to work on one host at a time
 c3725 idle-pc = 0x614998c8
 Juniper vMX 15+ (two parts) - root:Juniper
 Juniper vQFX (two parts) - root:Juniper
-ESXi - root/VMware1!
+ESXi - root:VMware1!
+vCenter - root:vmware
 
 
 Images to add or fix
@@ -11,4 +12,3 @@ windows server
 windows 10
 
 f5
-vmware vcsa
