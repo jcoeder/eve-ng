@@ -13,3 +13,6 @@ windows 10
 fortinet
 f5
 extreme 
+nxos9k
+vmware vcsa
+vmware esxi
