@@ -3,3 +3,13 @@ c3725 idle-pc = 0x614998c8
 Juniper vMX 15+ (two parts) - root:Juniper
 Juniper vQFX (two parts) - root:Juniper
 ESXi - root/VMware1!
+
+
+Images to add or fix
+a10
+windows server
+windows 10
+
+fortinet
+f5
+extreme 
