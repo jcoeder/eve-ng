@@ -4,6 +4,8 @@ Juniper vMX 15+ (two parts) - root:Juniper
 Juniper vQFX (two parts) - root:Juniper
 ESXi - root:VMware1!
 vCenter - root:vmware
+Windows10 - admin:admin
+Windows Server 2016 - Administrator:Admin!
 
 
 Images to add or fix
