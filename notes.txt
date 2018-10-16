@@ -7,7 +7,6 @@ vCenter - root:vmware
 
 
 Images to add or fix
-a10
 windows server
 
 f5
