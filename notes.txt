@@ -9,7 +9,6 @@ vCenter - root:vmware
 Images to add or fix
 a10
 windows server
-windows 10
 
 f5
 wanguard
