@@ -6,11 +6,12 @@ ESXi - root:VMware1!
 vCenter - root:vmware
 Windows10 - admin:admin
 Windows Server 2016 - Administrator:Admin!
+CentOS7-1804 - root:toor
 
 
 Images to add or fix
-windows server
-
+frrouting
+exabgp
 f5
 wanguard
 noction
