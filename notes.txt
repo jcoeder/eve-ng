@@ -7,6 +7,14 @@ vCenter - root:vmware
 Windows10 - admin:admin
 Windows Server 2016 - Administrator:Admin!
 CentOS7-1804 - root:toor
+Linux Kali 2018.1-amd64 - root:root
+Linux Ubuntu Server 14.04 - root:root
+Linux Ubuntu Server 14.04 - root:root https://{ip}:10000
+Linux Mint 18.3 Cinnamon - user:Test123
+Linux Ubuntu Desktop 16.04
+Linux Ubuntu Desktop 17.10
+Linux CentOS7 Desktop  user:Test123
+Linux Elementary user:Test123
 
 
 Images to add or fix
