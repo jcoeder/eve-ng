@@ -20,7 +20,6 @@ Linux Elementary user:Test123
 Images to add or fix
 frrouting
 exabgp
-f5
 wanguard
 noction
 openvpn
