@@ -19,7 +19,6 @@ Linux FRRouting root:toor
 
 
 Images to add or fix
-frrouting
 exabgp
 wanguard
 noction
