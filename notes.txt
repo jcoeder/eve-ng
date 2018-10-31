@@ -15,6 +15,7 @@ Linux Ubuntu Desktop 16.04
 Linux Ubuntu Desktop 17.10
 Linux CentOS7 Desktop  user:Test123
 Linux Elementary user:Test123
+Linux FRRouting root:toor
 
 
 Images to add or fix
