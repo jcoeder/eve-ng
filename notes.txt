@@ -17,6 +17,12 @@ Linux CentOS7 Desktop  user:Test123
 Linux Elementary user:Test123
 Linux FRRouting root:toor
 
+SSH
+username: librenms
+password: CDne3fwdfds
+WebUI
+username: librenms
+password: D32fwefwef
 
 Images to add or fix
 exabgp
