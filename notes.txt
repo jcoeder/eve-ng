@@ -30,5 +30,4 @@ wanguard
 noction
 openvpn
 observium
-greylog
 prtg/mrtg
