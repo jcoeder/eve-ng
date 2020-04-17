@@ -17,6 +17,7 @@ Linux FRRouting root:toor
 BIG IP:
 Default https username is admin with password admin
 Default cli username is root with password default
+NX-OS Titanium admin:admin
 
 SSH
 username: librenms
