@@ -14,6 +14,7 @@ Linux Mint 18.3 Cinnamon - user:Test123
 Linux CentOS7 Desktop  user:Test123
 Linux Elementary user:Test123
 Linux FRRouting root:toor
+Linux Alpine xfce - cisco:cisco
 BIG IP:
 Default https username is admin with password admin
 Default cli username is root with password default
@@ -29,7 +30,5 @@ password: D32fwefwef
 Images to add or fix
 exabgp
 wanguard
-noction
 openvpn
-observium
 prtg/mrtg
